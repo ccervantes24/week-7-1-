@@ -1,3 +1,4 @@
+def list_comprehension():
 ################################################List comprehension###############################################
 # List Comprehensions Practice #1
 # To do the coding exercise below, you can choose different paths. While the correct path in programming is the one that returns the correct result, I encourage you to try applying list comprehension concepts to begin to assimilate them for the future. They can be very useful in your professional practice!

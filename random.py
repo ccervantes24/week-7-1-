@@ -1,4 +1,4 @@
-
+def random():
 ################################################random in python#################################################
 # Random Practice #1
 # Implement the randint() function from the random library that allows you to obtain an integer from 1 to 10, and store that value in a variable called random_number.
